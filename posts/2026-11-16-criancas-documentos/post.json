@@ -1,0 +1,10 @@
+{"slides":[
+ {"kind":"cover","kicker":"Viajar com crianças","title":"Documentos das crianças: <em>o que levar</em>","subtitle":"Férias chegando! Confira antes de sair de casa<br>para não ter surpresa no embarque."},
+ {"kind":"tip","n":"1","title":"Voos dentro do Brasil","text":"Leve um documento de identificação da criança: RG ou certidão de nascimento (original ou cópia autenticada).","page":"01 / 05"},
+ {"kind":"tip","n":"2","title":"Sem os pais? <span class='hl'>Autorização</span>","text":"Menores de 16 anos viajando sem pai, mãe ou responsável precisam de autorização. Pode ser a do próprio pai ou mãe, com firma reconhecida em cartório.","page":"02 / 05"},
+ {"kind":"tip","n":"3","title":"Com avós ou tios","text":"Avós, tios e irmãos maiores de idade podem levar a criança sem autorização, desde que comprovem o parentesco com documentos.","extra":"leve a certidão de nascimento da criança e os documentos que mostram o parentesco.","page":"03 / 05"},
+ {"kind":"tip","n":"4","title":"Viagem internacional","text":"Se a criança viaja com só um dos pais, precisa da autorização do outro com firma reconhecida (ou a autorização já registrada no passaporte).","page":"04 / 05"},
+ {"kind":"tip","n":"5","title":"Passaporte e seguro","text":"Confira a validade do passaporte das crianças, que costuma ser menor que a dos adultos. E inclua todo mundo no seguro viagem.","page":"05 / 05"},
+ {"kind":"cta","title":"Viagem em família <em style='font-style:italic;color:#A97C45'>sem estresse</em>","text":"A gente te orienta sobre os documentos de cada viagem e organiza tudo do começo ao fim.","button":"Chama no WhatsApp","contact":"(22) 99883-9397"},
+ {"kind":"story","kicker":"Novo post","title":"Vai viajar com <em>as crianças?</em>","text":"Veja quais documentos levar<br>para não ter surpresa no embarque.","button":"Confira no feed ✈"}
+]}

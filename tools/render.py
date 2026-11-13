@@ -43,6 +43,18 @@ def slide_html(s, H):
           <p class="body">{s.get('subtitle','')}</p>
         </div>
         <div style="text-align:center" class="kicker">Arraste para o lado &nbsp;→</div>"""
+    elif k == "single":  # post de imagem única (frase, destino, enquete) — sem "arraste para o lado"
+        opts = "".join(f'<div class="card" style="padding:26px 40px;margin-top:20px;text-align:left"><p class="body" style="font-size:34px">{o}</p></div>' for o in s.get("options", []))
+        inner = f"""
+        <div style="display:flex;justify-content:center;margin-top:10px"><img class="logo" src="{LOGO}"></div>
+        <div style="margin-top:auto;margin-bottom:auto;text-align:center">
+          <div class="kicker">{s.get('kicker','')}</div>
+          <h1 style="margin-top:34px;font-size:{s.get('size',88)}px">{s['title']}</h1>
+          <div class="rule" style="margin:40px auto"></div>
+          {f'<p class="body">{s["subtitle"]}</p>' if s.get('subtitle') else ''}
+          {opts}
+        </div>
+        <div style="text-align:center" class="kicker">{s.get('footer','Salve e compartilhe com quem viaja com você')}</div>"""
     elif k == "tip":
         inner = f"""
         <div class="plane">✈</div>
