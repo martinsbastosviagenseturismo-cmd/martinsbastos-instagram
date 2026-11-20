@@ -1,0 +1,10 @@
+{"slides":[
+ {"kind": "cover", "kicker": "Dicas de viagem", "title": "5 jeitos de <em>economizar</em> na viagem", "subtitle": "Sem abrir mão do que importa<br>para você aproveitar."},
+ {"kind": "tip", "n": "1", "title": "Fuja da <span class='hl'>alta temporada</span>", "text": "Feriados e férias escolares encarecem tudo. Se puder, viaje antes ou depois desses períodos.", "page": "01 / 05"},
+ {"kind": "tip", "n": "2", "title": "Datas flexíveis", "text": "Mudar a ida ou a volta em um ou dois dias pode fazer diferença no preço da passagem e da hospedagem.", "page": "02 / 05"},
+ {"kind": "tip", "n": "3", "title": "Planeje com antecedência", "text": "Quanto mais cedo, mais opções de voos, horários e hotéis. Deixar para a última hora costuma sair mais caro.", "page": "03 / 05"},
+ {"kind": "tip", "n": "4", "title": "Compare o <span class='hl'>valor total</span>", "text": "Bagagem, transfer, taxas e café da manhã somam. Olhe o pacote completo, não só a tarifa mais baixa.", "page": "04 / 05"},
+ {"kind": "tip", "n": "5", "title": "Localização conta", "text": "Um hotel bem localizado pode economizar tempo e dinheiro com deslocamentos todos os dias.", "page": "05 / 05"},
+ {"kind": "cta", "title": "Viagem que <em style='font-style:italic;color:#A97C45'>cabe no bolso</em>", "text": "Conta pra gente quanto quer investir e a gente busca as melhores opções para você.", "button": "Chama no WhatsApp", "contact": "(22) 99883-9397"},
+ {"kind": "story", "kicker": "Novo post", "title": "Quer viajar <em>gastando menos?</em>", "text": "5 jeitos de economizar<br>sem abrir mão do que importa.", "button": "Confira no feed ✈"}
+]}

@@ -1,0 +1,10 @@
+{"slides":[
+ {"kind": "cover", "kicker": "Black Friday", "title": "Viagem na Black Friday: <em>5 cuidados</em>", "subtitle": "Antes de clicar em \"comprar\",<br>confira estes pontos."},
+ {"kind": "tip", "n": "1", "title": "Compare o <span class='hl'>preço final</span>", "text": "Taxas, bagagem e café da manhã mudam o valor. Um desconto grande na vitrine pode não ser tão grande no total.", "page": "01 / 05"},
+ {"kind": "tip", "n": "2", "title": "Leia as regras", "text": "Tarifas promocionais podem ter regras mais rígidas para cancelar ou remarcar. Saiba disso antes de pagar.", "page": "02 / 05"},
+ {"kind": "tip", "n": "3", "title": "Bom demais? <span class='hl'>Desconfie</span>", "text": "Cuidado com sites e perfis falsos e com pedidos de pagamento para pessoa física. Na dúvida, não pague.", "page": "03 / 05"},
+ {"kind": "tip", "n": "4", "title": "Confira o Cadastur", "text": "Agências de turismo precisam ter cadastro no Cadastur, do Ministério do Turismo. A consulta é pública e gratuita.", "page": "04 / 05"},
+ {"kind": "tip", "n": "5", "title": "As datas são suas?", "text": "Promoção boa é a que combina com as suas férias. Não compre só porque está barato.", "page": "05 / 05"},
+ {"kind": "cta", "title": "Viu uma oferta <em style='font-style:italic;color:#A97C45'>e ficou na dúvida?</em>", "text": "Manda pra gente que a gente te ajuda a entender o que está incluso e as regras.", "button": "Chama no WhatsApp", "contact": "(22) 99883-9397"},
+ {"kind": "story", "kicker": "Black Friday", "title": "Antes de comprar <em>sua viagem…</em>", "text": "5 cuidados para não cair<br>em armadilha na Black Friday.", "button": "Confira no feed ✈"}
+]}

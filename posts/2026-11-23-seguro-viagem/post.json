@@ -1,0 +1,10 @@
+{"slides":[
+ {"kind": "cover", "kicker": "Dicas de viagem", "title": "Seguro viagem: <em>o que olhar</em> antes de contratar", "subtitle": "Nem todo seguro é igual.<br>Confira estes 5 pontos."},
+ {"kind": "tip", "n": "1", "title": "Despesas <span class='hl'>médicas</span>", "text": "É o coração do seguro. Veja o valor de cobertura para atendimento médico e hospitalar e se ele combina com o destino.", "extra": "para os países do Espaço Schengen, na Europa, a cobertura mínima exigida é de 30 mil euros.", "page": "01 / 05"},
+ {"kind": "tip", "n": "2", "title": "Doenças preexistentes", "text": "Tem alguma condição de saúde? Nem todo plano cobre. Confira essa cláusula antes de fechar.", "page": "02 / 05"},
+ {"kind": "tip", "n": "3", "title": "Bagagem extraviada", "text": "Veja se o plano tem cobertura para mala perdida ou atrasada, e qual o valor.", "page": "03 / 05"},
+ {"kind": "tip", "n": "4", "title": "Cancelamento <span class='hl'>de viagem</span>", "text": "Alguns planos reembolsam despesas se você precisar cancelar ou interromper a viagem por motivos previstos no contrato.", "page": "04 / 05"},
+ {"kind": "tip", "n": "5", "title": "Atividades e perfil", "text": "Esportes de aventura, gestantes e viajantes mais velhos podem ter regras próprias. Leia as condições do seu caso.", "page": "05 / 05"},
+ {"kind": "cta", "title": "Seguro certo <em style='font-style:italic;color:#A97C45'>para a sua viagem</em>", "text": "A gente compara as opções e te ajuda a escolher a cobertura ideal para o seu roteiro.", "button": "Chama no WhatsApp", "contact": "(22) 99883-9397"},
+ {"kind": "story", "kicker": "Novo post", "title": "Seguro viagem: <em>o que olhar?</em>", "text": "5 pontos para conferir<br>antes de contratar.", "button": "Confira no feed ✈"}
+]}
