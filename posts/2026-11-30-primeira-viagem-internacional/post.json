@@ -1,0 +1,10 @@
+{"slides":[
+ {"kind": "cover", "kicker": "Dicas de viagem", "title": "Primeira viagem <em>internacional?</em>", "subtitle": "5 passos para sair do Brasil<br>com tudo em ordem."},
+ {"kind": "tip", "n": "1", "title": "<span class='hl'>Passaporte</span> em dia", "text": "É emitido pela Polícia Federal, com agendamento online. Confira a validade: muitos países pedem pelo menos 6 meses.", "page": "01 / 05", "extra": "para países do Mercosul, como Argentina e Uruguai, brasileiros podem viajar com RG em bom estado."},
+ {"kind": "tip", "n": "2", "title": "Visto e autorizações", "text": "Cada país tem a sua regra. Os Estados Unidos, por exemplo, exigem visto. Confira cedo, porque o processo pode levar meses.", "page": "02 / 05"},
+ {"kind": "tip", "n": "3", "title": "Seguro <span class='hl'>viagem</span>", "text": "Além de trazer tranquilidade, é obrigatório em alguns destinos, como os países do Espaço Schengen, na Europa.", "page": "03 / 05"},
+ {"kind": "tip", "n": "4", "title": "Dinheiro e cartão", "text": "Combine cartão internacional, conta global e um pouco de dinheiro em espécie. Lembre que compras no exterior têm IOF.", "page": "04 / 05"},
+ {"kind": "tip", "n": "5", "title": "Internet no <span class='hl'>celular</span>", "text": "Chip internacional, eSIM ou pacote de roaming: resolva antes de embarcar para não ficar sem mapa e WhatsApp.", "page": "05 / 05"},
+ {"kind": "cta", "title": "Sua primeira vez <em style='font-style:italic;color:#A97C45'>lá fora?</em>", "text": "A gente te orienta em cada passo, dos documentos ao roteiro.", "button": "Chama no WhatsApp", "contact": "(22) 99883-9397"},
+ {"kind": "story", "kicker": "Novo post", "title": "Primeira viagem <em>internacional?</em>", "text": "5 passos para sair do Brasil<br>com tudo em ordem.", "button": "Confira no feed ✈"}
+]}

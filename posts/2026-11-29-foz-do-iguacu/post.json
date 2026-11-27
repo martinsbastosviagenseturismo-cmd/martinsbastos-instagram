@@ -1,0 +1,10 @@
+{"slides":[
+ {"kind": "cover", "kicker": "Destino · Foz do Iguaçu (PR)", "title": "Foz do Iguaçu: <em>5 passeios</em> imperdíveis", "subtitle": "Cataratas, três países e muita natureza<br>em uma só viagem."},
+ {"kind": "tip", "n": "1", "title": "Cataratas: <span class='hl'>lado brasileiro</span>", "text": "No Parque Nacional do Iguaçu, Patrimônio Natural da UNESCO, a trilha leva a mirantes com vista panorâmica das quedas.", "page": "01 / 05"},
+ {"kind": "tip", "n": "2", "title": "Cataratas: lado argentino", "text": "As passarelas chegam pertinho da Garganta do Diabo. É outra experiência, mais de dentro das quedas.", "page": "02 / 05", "extra": "brasileiros entram na Argentina com RG em bom estado ou passaporte válido. A CNH não vale."},
+ {"kind": "tip", "n": "3", "title": "Usina de <span class='hl'>Itaipu</span>", "text": "Uma das maiores hidrelétricas do mundo, na fronteira com o Paraguai, com visitas guiadas para conhecer a estrutura.", "page": "03 / 05"},
+ {"kind": "tip", "n": "4", "title": "Parque das Aves", "text": "Ao lado da entrada do Parque Nacional, reúne aves da Mata Atlântica em viveiros onde dá para entrar e ver tudo de perto.", "page": "04 / 05"},
+ {"kind": "tip", "n": "5", "title": "Marco das <span class='hl'>Três Fronteiras</span>", "text": "O ponto onde se encontram Brasil, Argentina e Paraguai. Vá no fim da tarde para ver o pôr do sol.", "page": "05 / 05", "extra": "reserve pelo menos 3 dias para conhecer os dois lados das cataratas sem correria."},
+ {"kind": "cta", "title": "Bora para <em style='font-style:italic;color:#A97C45'>Foz?</em>", "text": "A gente organiza aéreo, hospedagem, transfer e passeios, nos dois lados da fronteira.", "button": "Chama no WhatsApp", "contact": "(22) 99883-9397"},
+ {"kind": "story", "kicker": "Novo post", "title": "Foz do Iguaçu: <em>já foi?</em>", "text": "5 passeios para colocar<br>no seu roteiro.", "button": "Confira no feed ✈"}
+]}

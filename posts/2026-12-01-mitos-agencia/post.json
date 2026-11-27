@@ -1,0 +1,9 @@
+{"slides":[
+ {"kind": "cover", "kicker": "Martins Bastos", "title": "4 mitos sobre <em>agência de viagens</em>", "subtitle": "Será que você ainda acredita<br>em algum deles?"},
+ {"kind": "tip", "n": "1", "title": "\"Agência é <span class='hl'>mais cara</span>\"", "text": "Nem sempre. A gente compara opções e mostra o valor total, com tudo o que está incluso, para você decidir com clareza.", "page": "01 / 04"},
+ {"kind": "tip", "n": "2", "title": "\"Só serve para o exterior\"", "text": "Também organizamos viagens pelo Brasil: um fim de semana na serra, as férias no Nordeste, um parque com as crianças.", "page": "02 / 04"},
+ {"kind": "tip", "n": "3", "title": "\"Tenho que <span class='hl'>ir até lá</span>\"", "text": "Dá para resolver tudo pelo WhatsApp e pelo direct, no seu tempo, com uma pessoa de verdade do outro lado.", "page": "03 / 04"},
+ {"kind": "tip", "n": "4", "title": "\"É só pacote pronto\"", "text": "A viagem é montada do seu jeito: destino, datas, ritmo e orçamento que combinam com você e com quem vai junto.", "page": "04 / 04"},
+ {"kind": "cta", "title": "Tira a dúvida <em style='font-style:italic;color:#A97C45'>com a gente</em>", "text": "Conta o que você está planejando e a gente te mostra as opções.", "button": "Chama no WhatsApp", "contact": "(22) 99883-9397"},
+ {"kind": "story", "kicker": "Novo post", "title": "Agência é <em>mais cara?</em>", "text": "4 mitos sobre agência de viagens<br>que precisam sair de cena.", "button": "Confira no feed ✈"}
+]}

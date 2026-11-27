@@ -1,0 +1,10 @@
+{"slides":[
+ {"kind": "cover", "kicker": "Dicas de viagem", "title": "Primeira vez <em>de avião?</em>", "subtitle": "5 dicas para embarcar<br>tranquilo e sem susto."},
+ {"kind": "tip", "n": "1", "title": "Check-in <span class='hl'>online</span>", "text": "Ele costuma abrir alguns dias antes do voo, no site ou no app da companhia. Você já escolhe o assento e salva o cartão de embarque.", "page": "01 / 05"},
+ {"kind": "tip", "n": "2", "title": "Chegue com antecedência", "text": "Programe-se para chegar cerca de 2 horas antes em voos nacionais e 3 horas antes nos internacionais.", "page": "02 / 05"},
+ {"kind": "tip", "n": "3", "title": "Documento <span class='hl'>com foto</span>", "text": "Leve um documento oficial de identificação com foto. Se for usar a versão digital, confirme antes com a companhia.", "page": "03 / 05"},
+ {"kind": "tip", "n": "4", "title": "Na bagagem de mão", "text": "Documentos, remédios e carregador vão com você. Carregador portátil (power bank) nunca pode ir na mala despachada.", "page": "04 / 05"},
+ {"kind": "tip", "n": "5", "title": "Ouvido tampado?", "text": "Na subida e na descida, mastigar, engolir ou bocejar ajuda. Para bebês, mamar nesses momentos costuma aliviar.", "page": "05 / 05"},
+ {"kind": "cta", "title": "Primeiro voo <em style='font-style:italic;color:#A97C45'>com a gente?</em>", "text": "A gente te ajuda com passagem, check-in e todas as dúvidas antes de embarcar.", "button": "Chama no WhatsApp", "contact": "(22) 99883-9397"},
+ {"kind": "story", "kicker": "Novo post", "title": "Primeira vez <em>de avião?</em>", "text": "5 dicas para embarcar<br>tranquilo e sem susto.", "button": "Confira no feed ✈"}
+]}
